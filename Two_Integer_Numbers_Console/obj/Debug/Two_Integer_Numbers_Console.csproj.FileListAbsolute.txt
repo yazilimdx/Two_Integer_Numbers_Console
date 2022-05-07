@@ -1,0 +1,11 @@
+C:\Users\HP DX\source\repos\Two_Integer_Numbers_Console\Two_Integer_Numbers_Console\bin\Debug\Two_Integer_Numbers_Console.exe.config
+C:\Users\HP DX\source\repos\Two_Integer_Numbers_Console\Two_Integer_Numbers_Console\bin\Debug\Two_Integer_Numbers_Console.exe
+C:\Users\HP DX\source\repos\Two_Integer_Numbers_Console\Two_Integer_Numbers_Console\bin\Debug\Two_Integer_Numbers_Console.pdb
+C:\Users\HP DX\source\repos\Two_Integer_Numbers_Console\Two_Integer_Numbers_Console\bin\Debug\Microsoft.Web.Mvc.dll
+C:\Users\HP DX\source\repos\Two_Integer_Numbers_Console\Two_Integer_Numbers_Console\bin\Debug\MvcContrib.dll
+C:\Users\HP DX\source\repos\Two_Integer_Numbers_Console\Two_Integer_Numbers_Console\bin\Debug\MvcContrib.xml
+C:\Users\HP DX\source\repos\Two_Integer_Numbers_Console\Two_Integer_Numbers_Console\obj\Debug\Two_Integer_Numbers_Console.csprojAssemblyReference.cache
+C:\Users\HP DX\source\repos\Two_Integer_Numbers_Console\Two_Integer_Numbers_Console\obj\Debug\Two_Integer_Numbers_Console.csproj.CoreCompileInputs.cache
+C:\Users\HP DX\source\repos\Two_Integer_Numbers_Console\Two_Integer_Numbers_Console\obj\Debug\Two_Integer_Numbers_Console.csproj.CopyComplete
+C:\Users\HP DX\source\repos\Two_Integer_Numbers_Console\Two_Integer_Numbers_Console\obj\Debug\Two_Integer_Numbers_Console.exe
+C:\Users\HP DX\source\repos\Two_Integer_Numbers_Console\Two_Integer_Numbers_Console\obj\Debug\Two_Integer_Numbers_Console.pdb
